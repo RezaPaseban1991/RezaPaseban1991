@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Reza Paseban
 
-<!--
-**RezaPaseban1991/RezaPaseban1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at Irvine Valley College interested in Python programming, data analysis, and information systems.
 
-Here are some ideas to get you started:
+## Education
+Associate Degree in Computer Science  
+Irvine Valley College
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+Python  
+SQL  
+Excel  
+
+## Current Courses
+Business Statistics  
+Introduction to Information Systems  
+Spreadsheets  
+
+## Projects
+Python programming exercises  
+Data processing practice with Python  
+Excel-based data analysis projects  
+
+## Interests
+Data Analysis  
+Information Systems  
+Data science
