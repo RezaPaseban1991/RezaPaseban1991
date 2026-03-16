@@ -25,3 +25,8 @@ Excel-based data analysis projects
 Data Analysis  
 Information Systems  
 Data science
+## GitHub Stats
+![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=RezaPaseban1991&show_icons=true&theme=default)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RezaPaseban1991&layout=compact)
